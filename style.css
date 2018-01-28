@@ -1,7 +1,11 @@
+body {
+    background-color: navy;
+}
+
 #container {
     margin: auto;
     width: inherit;
-    background-color: navy;
+    background-color: steelblue;
 }
 
 .mainBox {
